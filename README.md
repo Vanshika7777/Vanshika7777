@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">A passionate student from India</h3>
 
-- 🔭 I’m currently working on **dress rental system**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
